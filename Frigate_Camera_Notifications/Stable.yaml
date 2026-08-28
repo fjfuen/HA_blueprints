@@ -1,6 +1,6 @@
 blueprint:
-  name: Frigate Notifications (0.14.0.2z)
-  author: SgtBatten
+  name: Forked Frigate Notifications (0.14.0.2z)
+  author: FJfuen
   homeassistant:
     min_version: 2024.11.0
   description: |
